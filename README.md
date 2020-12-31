@@ -1,5 +1,5 @@
 # painting-cnn
-## Convolutional neural network model to distinguish paintings by Picasso, Monet, and Kandinsky from one another
+#### Convolutional neural network model to distinguish paintings by Picasso, Monet, and Kandinsky from one another
 
 Click here to launch the web app:
 
