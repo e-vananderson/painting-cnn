@@ -1,6 +1,6 @@
 voila
 fastai>=2,<=2.0.6
-fastcore==1.0.0
+fastcore
 fastbook
 pillow<7
 packaging
