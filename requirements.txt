@@ -1,6 +1,6 @@
 voila
 fastai>=2,<=2.0.6
-fastcore
+fastcore==1.0.0
 fastbook
 pillow<7
 packaging
@@ -11,5 +11,3 @@ ipywidgets
 matplotlib
 nbdev>=0.2.12
 pandas
-scikit_learn
-sentencepiece
