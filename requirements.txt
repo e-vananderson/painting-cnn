@@ -9,5 +9,4 @@ graphviz==0.15
 matplotlib==3.3.3
 nbdev==1.1.5
 pandas==1.1.4
-jupyter-server==1.8
 voila
